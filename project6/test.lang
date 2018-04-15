@@ -1,0 +1,38 @@
+class0 {
+    integer	member0;
+    integer	member1;
+    integer	member2;
+    integer	member3;
+
+    class0(boolean arg0, integer arg1, integer arg2, integer arg3) -> none {
+
+        
+        member1 = 165 / 204;
+        member0 = (176) * 47;
+        member3 = 245;
+        member2 = 67;
+
+        print -(143);
+
+    }
+
+
+}
+
+class1 extends class0 {
+
+    class1() -> none {
+        class0(false, 32, 13 * 168, 113);
+    }
+
+
+}
+
+Main {
+    main() -> none {
+        class1 local0;
+        local0 = new class1();
+
+    }
+}
+
